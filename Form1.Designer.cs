@@ -132,7 +132,7 @@ namespace ClientReservasi_115
             // 
             // btSimpan
             // 
-            this.btSimpan.Location = new System.Drawing.Point(539, 60);
+            this.btSimpan.Location = new System.Drawing.Point(539, 47);
             this.btSimpan.Name = "btSimpan";
             this.btSimpan.Size = new System.Drawing.Size(75, 23);
             this.btSimpan.TabIndex = 10;
@@ -152,7 +152,7 @@ namespace ClientReservasi_115
             // 
             // btHapus
             // 
-            this.btHapus.Location = new System.Drawing.Point(539, 143);
+            this.btHapus.Location = new System.Drawing.Point(539, 131);
             this.btHapus.Name = "btHapus";
             this.btHapus.Size = new System.Drawing.Size(75, 23);
             this.btHapus.TabIndex = 12;

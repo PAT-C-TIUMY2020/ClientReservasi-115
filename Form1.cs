@@ -75,7 +75,7 @@ namespace ClientReservasi_115
 
         public void TampilData()
         {
-            var List = service.Pemesanan1();
+            var List = service.DataRegist();
             dtPemesanan.DataSource = List;
         }
         public void Clear()
